@@ -1,0 +1,238 @@
+Begin to run ......
+Data Type: [N C K (inH inW) (R S) (outH outW) (padh padw) (strideh stridew)] ......
+[  64    1   20 (  28   28) (  5   5) (  24   24) (  0   0) (  1   1)] || elapsed-time     0.00 ms || Perf     inf gflops,    inf peak!
+The result is correct!
+[  64   20   50 (  12   12) (  5   5) (   8    8) (  0   0) (  1   1)] || elapsed-time     0.20 ms || Perf 1022.98 gflops,  31.23 peak!
+The result is correct!
+[  64  512  128 (   5    5) (  1   1) (   5    5) (  0   0) (  1   1)] || elapsed-time     0.10 ms || Perf 2095.10 gflops,  63.95 peak!
+The result is correct!
+[  64  528  128 (   5    5) (  1   1) (   5    5) (  0   0) (  1   1)] || elapsed-time     0.10 ms || Perf 2160.64 gflops,  65.95 peak!
+The result is correct!
+[  64  832   32 (   8    8) (  1   1) (   8    8) (  0   0) (  1   1)] || elapsed-time     0.10 ms || Perf 2179.73 gflops,  66.54 peak!
+The result is correct!
+[  64   48  192 (  14   14) (  1   1) (  14   14) (  0   0) (  1   1)] || elapsed-time     0.40 ms || Perf  572.01 gflops,  17.46 peak!
+The result is correct!
+[  64   48  192 (  14   14) (  1   1) (  14   14) (  0   0) (  1   1)] || elapsed-time     0.50 ms || Perf  457.61 gflops,  13.97 peak!
+The result is correct!
+[  64  480   16 (  16   16) (  1   1) (  16   16) (  0   0) (  1   1)] || elapsed-time     0.10 ms || Perf 2513.96 gflops,  76.74 peak!
+The result is correct!
+[  64  256   48 (  14   14) (  1   1) (  14   14) (  0   0) (  1   1)] || elapsed-time     0.10 ms || Perf 3076.79 gflops,  93.92 peak!
+The result is correct!
+[  64  832   48 (   8    8) (  1   1) (   8    8) (  0   0) (  1   1)] || elapsed-time     0.10 ms || Perf 3269.59 gflops,  99.80 peak!
+The result is correct!
+[  64   16   64 (  56   56) (  1   1) (  56   56) (  0   0) (  1   1)] || elapsed-time     2.40 ms || Perf  165.92 gflops,   5.06 peak!
+The result is correct!
+[  64  192   16 (  32   32) (  1   1) (  32   32) (  0   0) (  1   1)] || elapsed-time     0.20 ms || Perf 2008.02 gflops,  61.29 peak!
+The result is correct!
+[  64  512   24 (  16   16) (  1   1) (  16   16) (  0   0) (  1   1)] || elapsed-time     0.10 ms || Perf 4022.60 gflops, 122.79 peak!
+The result is correct!
+[  64   32  128 (  28   28) (  1   1) (  28   28) (  0   0) (  1   1)] || elapsed-time     1.10 ms || Perf  367.84 gflops,  11.23 peak!
+The result is correct!
+[  64   64   16 (  56   56) (  1   1) (  56   56) (  0   0) (  1   1)] || elapsed-time     0.80 ms || Perf  509.79 gflops,  15.56 peak!
+The result is correct!
+[  64   64  256 (  14   14) (  1   1) (  14   14) (  0   0) (  1   1)] || elapsed-time     0.80 ms || Perf  509.79 gflops,  15.56 peak!
+The result is correct!
+[  64  128   32 (  28   28) (  1   1) (  28   28) (  0   0) (  1   1)] || elapsed-time     0.30 ms || Perf 1364.79 gflops,  41.66 peak!
+The result is correct!
+[  64  384   48 (  14   14) (  1   1) (  14   14) (  0   0) (  1   1)] || elapsed-time     0.40 ms || Perf 1154.55 gflops,  35.24 peak!
+The result is correct!
+[  64  512   32 (  16   16) (  1   1) (  16   16) (  0   0) (  1   1)] || elapsed-time     0.40 ms || Perf 1340.87 gflops,  40.93 peak!
+The result is correct!
+[  64  528   32 (  16   16) (  1   1) (  16   16) (  0   0) (  1   1)] || elapsed-time     0.40 ms || Perf 1382.81 gflops,  42.21 peak!
+The result is correct!
+[  10    3   16 ( 256  256) (  3   3) ( 256  256) (  1   1) (  1   1)] || elapsed-time     0.20 ms || Perf 2778.73 gflops,  84.82 peak!
+The result is correct!
+[  64  384   64 (  14   14) (  1   1) (  14   14) (  0   0) (  1   1)] || elapsed-time     0.30 ms || Perf 2052.53 gflops,  62.65 peak!
+The result is correct!
+[  64   16   48 (  16   16) (  5   5) (  16   16) (  2   2) (  1   1)] || elapsed-time     0.10 ms || Perf 6283.59 gflops, 191.81 peak!
+The result is correct!
+[  16 4096   60 (   9    9) (  1   1) (   9    9) (  0   0) (  1   1)] || elapsed-time     0.80 ms || Perf  796.17 gflops,  24.30 peak!
+The result is correct!
+[  10 1024 1000 (   4    4) (  1   1) (   6    6) (  1   1) (  1   1)] || elapsed-time     1.10 ms || Perf  669.93 gflops,  20.45 peak!
+The result is correct!
+[  64  192   32 (  32   32) (  1   1) (  32   32) (  0   0) (  1   1)] || elapsed-time     0.40 ms || Perf 2008.02 gflops,  61.29 peak!
+The result is correct!
+[  64  128   16 (  56   56) (  1   1) (  56   56) (  0   0) (  1   1)] || elapsed-time     1.30 ms || Perf  629.90 gflops,  19.23 peak!
+The result is correct!
+[  64  256   32 (  28   28) (  1   1) (  28   28) (  0   0) (  1   1)] || elapsed-time     0.30 ms || Perf 2734.93 gflops,  83.48 peak!
+The result is correct!
+[  64  512   64 (  14   14) (  1   1) (  14   14) (  0   0) (  1   1)] || elapsed-time     0.30 ms || Perf 2737.60 gflops,  83.57 peak!
+The result is correct!
+[  16  512   60 (  29   29) (  1   1) (  29   29) (  0   0) (  1   1)] || elapsed-time     0.70 ms || Perf 1179.90 gflops,  36.02 peak!
+The result is correct!
+[  64   32  128 (   8    8) (  5   5) (   8    8) (  2   2) (  1   1)] || elapsed-time     0.20 ms || Perf 4191.68 gflops, 127.95 peak!
+The result is correct!
+[  64  832  128 (   8    8) (  1   1) (   8    8) (  0   0) (  1   1)] || elapsed-time     0.40 ms || Perf 2179.73 gflops,  66.54 peak!
+The result is correct!
+[  64  480   64 (  16   16) (  1   1) (  16   16) (  0   0) (  1   1)] || elapsed-time     0.50 ms || Perf 2011.17 gflops,  61.39 peak!
+The result is correct!
+[  64   64  128 (  64   64) (  1   1) (  32   32) (  0   0) (  2   2)] || elapsed-time     1.70 ms || Perf  626.68 gflops,  19.13 peak!
+The result is correct!
+[  64  128  256 (  32   32) (  1   1) (  16   16) (  0   0) (  2   2)] || elapsed-time     0.80 ms || Perf 1336.93 gflops,  40.81 peak!
+The result is correct!
+[  64  256   32 (  32   32) (  1   1) (  32   32) (  0   0) (  1   1)] || elapsed-time     0.70 ms || Perf 1530.92 gflops,  46.73 peak!
+The result is correct!
+[  64  256  512 (  16   16) (  1   1) (   8    8) (  0   0) (  2   2)] || elapsed-time     0.70 ms || Perf 1530.92 gflops,  46.73 peak!
+The result is correct!
+[  64  512   64 (  16   16) (  1   1) (  16   16) (  0   0) (  1   1)] || elapsed-time     0.70 ms || Perf 1532.42 gflops,  46.78 peak!
+The result is correct!
+[  64  832  160 (   8    8) (  1   1) (   8    8) (  0   0) (  1   1)] || elapsed-time     0.90 ms || Perf 1210.96 gflops,  36.96 peak!
+The result is correct!
+[  64   24   64 (  16   16) (  5   5) (  16   16) (  2   2) (  1   1)] || elapsed-time     0.70 ms || Perf 1796.06 gflops,  54.82 peak!
+The result is correct!
+[  64   48  128 (   8    8) (  5   5) (   8    8) (  2   2) (  1   1)] || elapsed-time     0.30 ms || Perf 4192.56 gflops, 127.98 peak!
+The result is correct!
+[  64  832  192 (   8    8) (  1   1) (   8    8) (  0   0) (  1   1)] || elapsed-time     0.80 ms || Perf 1634.80 gflops,  49.90 peak!
+The result is correct!
+[  10   16   32 ( 128  128) (  3   3) ( 128  128) (  1   1) (  1   1)] || elapsed-time     0.50 ms || Perf 3009.41 gflops,  91.86 peak!
+The result is correct!
+[  10   32   64 (  64   64) (  3   3) (  64   64) (  1   1) (  1   1)] || elapsed-time     0.50 ms || Perf 3014.66 gflops,  92.02 peak!
+The result is correct!
+[  64  480   96 (  16   16) (  1   1) (  16   16) (  0   0) (  1   1)] || elapsed-time     0.70 ms || Perf 2154.82 gflops,  65.78 peak!
+The result is correct!
+[  10   64  128 (  32   32) (  3   3) (  32   32) (  1   1) (  1   1)] || elapsed-time     0.50 ms || Perf 3017.28 gflops,  92.10 peak!
+The result is correct!
+[  10  128  256 (  16   16) (  3   3) (  16   16) (  1   1) (  1   1)] || elapsed-time     0.50 ms || Perf 3018.59 gflops,  92.14 peak!
+The result is correct!
+[  10  256  512 (   8    8) (  3   3) (   8    8) (  1   1) (  1   1)] || elapsed-time     0.50 ms || Perf 3019.24 gflops,  92.16 peak!
+The result is correct!
+[  10  512 1024 (   4    4) (  3   3) (   4    4) (  1   1) (  1   1)] || elapsed-time     0.90 ms || Perf 1677.54 gflops,  51.21 peak!
+The result is correct!
+[  16  256   60 (  57   57) (  1   1) (  57   57) (  0   0) (  1   1)] || elapsed-time     1.30 ms || Perf 1226.02 gflops,  37.42 peak!
+The result is correct!
+[  64  192   64 (  32   32) (  1   1) (  32   32) (  0   0) (  1   1)] || elapsed-time     1.10 ms || Perf 1460.38 gflops,  44.58 peak!
+The result is correct!
+[  64   16   32 (  32   32) (  5   5) (  32   32) (  2   2) (  1   1)] || elapsed-time     0.50 ms || Perf 3351.25 gflops, 102.30 peak!
+The result is correct!
+[  64   32   64 (  16   16) (  5   5) (  16   16) (  2   2) (  1   1)] || elapsed-time     0.50 ms || Perf 3353.35 gflops, 102.36 peak!
+The result is correct!
+[  64  832  256 (   8    8) (  1   1) (   8    8) (  0   0) (  1   1)] || elapsed-time     1.40 ms || Perf 1245.56 gflops,  38.02 peak!
+The result is correct!
+[  64  512  112 (  16   16) (  1   1) (  16   16) (  0   0) (  1   1)] || elapsed-time     1.20 ms || Perf 1564.34 gflops,  47.75 peak!
+The result is correct!
+[  64  512  112 (  16   16) (  1   1) (  16   16) (  0   0) (  1   1)] || elapsed-time     1.20 ms || Perf 1564.34 gflops,  47.75 peak!
+The result is correct!
+[  64   48  192 (  14   14) (  3   3) (  14   14) (  1   1) (  1   1)] || elapsed-time     0.70 ms || Perf 2969.27 gflops,  90.64 peak!
+The result is correct!
+[  64   64   64 (  64   64) (  1   1) (  64   64) (  0   0) (  1   1)] || elapsed-time     4.60 ms || Perf  463.20 gflops,  14.14 peak!
+The result is correct!
+[  64  256   64 (  32   32) (  1   1) (  32   32) (  0   0) (  1   1)] || elapsed-time     1.20 ms || Perf 1786.07 gflops,  54.52 peak!
+The result is correct!
+[  64  512  128 (  16   16) (  1   1) (  16   16) (  0   0) (  1   1)] || elapsed-time     1.40 ms || Perf 1532.42 gflops,  46.78 peak!
+The result is correct!
+[  64  528  128 (  16   16) (  1   1) (  16   16) (  0   0) (  1   1)] || elapsed-time     1.40 ms || Perf 1580.35 gflops,  48.24 peak!
+The result is correct!
+[  64  192   96 (  32   32) (  1   1) (  32   32) (  0   0) (  1   1)] || elapsed-time     1.10 ms || Perf 2190.57 gflops,  66.87 peak!
+The result is correct!
+[  64  512  144 (  16   16) (  1   1) (  16   16) (  0   0) (  1   1)] || elapsed-time     1.70 ms || Perf 1419.74 gflops,  43.34 peak!
+The result is correct!
+[  64  832  384 (   8    8) (  1   1) (   8    8) (  0   0) (  1   1)] || elapsed-time     1.40 ms || Perf 1868.34 gflops,  57.03 peak!
+The result is correct!
+[  64  512  160 (  16   16) (  1   1) (  16   16) (  0   0) (  1   1)] || elapsed-time     1.10 ms || Perf 2437.94 gflops,  74.42 peak!
+The result is correct!
+[  64  528  160 (  16   16) (  1   1) (  16   16) (  0   0) (  1   1)] || elapsed-time     1.50 ms || Perf 1843.75 gflops,  56.28 peak!
+The result is correct!
+[  64    3   64 ( 228  228) (  3   3) ( 113  113) (  0   0) (  2   2)] || elapsed-time     8.50 ms || Perf  326.12 gflops,   9.95 peak!
+The result is correct!
+[  64  480  192 (  16   16) (  1   1) (  16   16) (  0   0) (  1   1)] || elapsed-time     1.70 ms || Perf 1774.56 gflops,  54.17 peak!
+The result is correct!
+[  64   32  128 (  16   16) (  5   5) (  16   16) (  2   2) (  1   1)] || elapsed-time     1.00 ms || Perf 3353.35 gflops, 102.36 peak!
+The result is correct!
+[  64   16   64 (  56   56) (  3   3) (  56   56) (  1   1) (  1   1)] || elapsed-time     1.30 ms || Perf 2835.79 gflops,  86.56 peak!
+The result is correct!
+[  64   32  128 (  28   28) (  3   3) (  28   28) (  1   1) (  1   1)] || elapsed-time     1.20 ms || Perf 3077.46 gflops,  93.94 peak!
+The result is correct!
+[  64   64  256 (  14   14) (  3   3) (  14   14) (  1   1) (  1   1)] || elapsed-time     1.20 ms || Perf 3080.14 gflops,  94.02 peak!
+The result is correct!
+[  64  160  320 (   8    8) (  3   3) (   8    8) (  1   1) (  1   1)] || elapsed-time     1.30 ms || Perf 2902.74 gflops,  88.61 peak!
+The result is correct!
+[  64  256  128 (  32   32) (  1   1) (  32   32) (  0   0) (  1   1)] || elapsed-time     2.70 ms || Perf 1587.62 gflops,  48.46 peak!
+The result is correct!
+[  64  528  256 (  16   16) (  1   1) (  16   16) (  0   0) (  1   1)] || elapsed-time     2.50 ms || Perf 1770.00 gflops,  54.03 peak!
+The result is correct!
+[  64  192  384 (   8    8) (  3   3) (   8    8) (  1   1) (  1   1)] || elapsed-time     1.90 ms || Perf 2860.13 gflops,  87.31 peak!
+The result is correct!
+[  64   96  208 (  16   16) (  3   3) (  16   16) (  1   1) (  1   1)] || elapsed-time     2.00 ms || Perf 2942.70 gflops,  89.83 peak!
+The result is correct!
+[  64  112  224 (  16   16) (  3   3) (  16   16) (  1   1) (  1   1)] || elapsed-time     2.50 ms || Perf 2958.03 gflops,  90.29 peak!
+The result is correct!
+[  64   64  128 (  64   64) (  3   3) (  32   32) (  1   1) (  2   2)] || elapsed-time     5.70 ms || Perf 1693.91 gflops,  51.71 peak!
+The result is correct!
+[  64  128  256 (  32   32) (  3   3) (  16   16) (  1   1) (  2   2)] || elapsed-time     3.60 ms || Perf 2683.19 gflops,  81.90 peak!
+The result is correct!
+[  64  256  512 (  16   16) (  3   3) (   8    8) (  1   1) (  2   2)] || elapsed-time     3.80 ms || Perf 2542.52 gflops,  77.61 peak!
+The result is correct!
+[  64   32   96 (  32   32) (  5   5) (  32   32) (  2   2) (  1   1)] || elapsed-time     3.30 ms || Perf 3048.50 gflops,  93.06 peak!
+The result is correct!
+[  16    3   64 ( 256  256) (  3   3) ( 454  454) (100 100) (  1   1)] || elapsed-time    58.30 ms || Perf  191.88 gflops,   5.86 peak!
+The result is correct!
+[  64    3   64 ( 228  228) (  3   3) ( 228  228) (  1   1) (  1   1)] || elapsed-time    29.50 ms || Perf  382.55 gflops,  11.68 peak!
+The result is correct!
+[  64  144  288 (  16   16) (  3   3) (  16   16) (  1   1) (  1   1)] || elapsed-time     4.20 ms || Perf 2910.92 gflops,  88.86 peak!
+The result is correct!
+[  64  512 1000 (  14   14) (  1   1) (  14   14) (  0   0) (  1   1)] || elapsed-time     5.80 ms || Perf 2212.50 gflops,  67.54 peak!
+The result is correct!
+[  64   96  128 (  32   32) (  3   3) (  32   32) (  1   1) (  1   1)] || elapsed-time     5.10 ms || Perf 2840.61 gflops,  86.71 peak!
+The result is correct!
+[  64  160  320 (  16   16) (  3   3) (  16   16) (  1   1) (  1   1)] || elapsed-time     5.10 ms || Perf 2959.66 gflops,  90.34 peak!
+The result is correct!
+[  64    3   96 ( 256  256) ( 11  11) (  62   62) (  0   0) (  4   4)] || elapsed-time    20.50 ms || Perf  835.25 gflops,  25.50 peak!
+The result is correct!
+[  64   64   64 (  64   64) (  3   3) (  64   64) (  1   1) (  1   1)] || elapsed-time     8.70 ms || Perf 2219.61 gflops,  67.75 peak!
+The result is correct!
+[  64  128  128 (  32   32) (  3   3) (  32   32) (  1   1) (  1   1)] || elapsed-time     6.80 ms || Perf 2841.02 gflops,  86.72 peak!
+The result is correct!
+[  64  256  256 (  16   16) (  3   3) (  16   16) (  1   1) (  1   1)] || elapsed-time     6.60 ms || Perf 2927.75 gflops,  89.37 peak!
+The result is correct!
+[  64  256  256 (  16   16) (  3   3) (  16   16) (  1   1) (  1   1)] || elapsed-time     6.60 ms || Perf 2927.75 gflops,  89.37 peak!
+The result is correct!
+[  64  512  512 (   8    8) (  3   3) (   8    8) (  1   1) (  1   1)] || elapsed-time     6.90 ms || Perf 2800.76 gflops,  85.49 peak!
+The result is correct!
+[  64    3   64 ( 256  256) (  7   7) ( 128  128) (  3   3) (  2   2)] || elapsed-time    11.20 ms || Perf 1755.62 gflops,  53.59 peak!
+The result is correct!
+[  64  256  384 (  15   15) (  3   3) (  15   15) (  1   1) (  1   1)] || elapsed-time     8.70 ms || Perf 2928.15 gflops,  89.38 peak!
+The result is correct!
+[  64  384  256 (  15   15) (  3   3) (  15   15) (  1   1) (  1   1)] || elapsed-time     8.70 ms || Perf 2928.36 gflops,  89.39 peak!
+The result is correct!
+[  64  128  192 (  32   32) (  3   3) (  32   32) (  1   1) (  1   1)] || elapsed-time    10.10 ms || Perf 2869.15 gflops,  87.58 peak!
+The result is correct!
+[  64  384  384 (  15   15) (  3   3) (  15   15) (  1   1) (  1   1)] || elapsed-time    13.10 ms || Perf 2917.18 gflops,  89.05 peak!
+The result is correct!
+[  16 4096 4096 (   9    9) (  1   1) (   9    9) (  0   0) (  1   1)] || elapsed-time    34.60 ms || Perf 1256.68 gflops,  38.36 peak!
+The result is correct!
+[  64   64  192 (  64   64) (  3   3) (  64   64) (  1   1) (  1   1)] || elapsed-time    22.60 ms || Perf 2563.35 gflops,  78.25 peak!
+The result is correct!
+[  64  512  512 (  15   15) (  3   3) (  15   15) (  1   1) (  1   1)] || elapsed-time    23.30 ms || Perf 2915.89 gflops,  89.01 peak!
+The result is correct!
+[  64   96  256 (  31   31) (  5   5) (  31   31) (  2   2) (  1   1)] || elapsed-time    28.20 ms || Perf 2679.45 gflops,  81.79 peak!
+The result is correct!
+[  16   64  128 ( 227  227) (  3   3) ( 227  227) (  1   1) (  1   1)] || elapsed-time    90.10 ms || Perf 1348.13 gflops,  41.15 peak!
+The result is correct!
+[  64   64  128 ( 114  114) (  3   3) ( 114  114) (  1   1) (  1   1)] || elapsed-time    53.60 ms || Perf 2286.18 gflops,  69.79 peak!
+The result is correct!
+[  16  128  256 ( 114  114) (  3   3) ( 114  114) (  1   1) (  1   1)] || elapsed-time    54.90 ms || Perf 2233.01 gflops,  68.16 peak!
+The result is correct!
+[  64  128  256 (  57   57) (  3   3) (  57   57) (  1   1) (  1   1)] || elapsed-time    45.20 ms || Perf 2712.22 gflops,  82.79 peak!
+The result is correct!
+[  16  256  512 (  57   57) (  3   3) (  57   57) (  1   1) (  1   1)] || elapsed-time    47.30 ms || Perf 2592.37 gflops,  79.13 peak!
+The result is correct!
+[  64  256  512 (  29   29) (  3   3) (  29   29) (  1   1) (  1   1)] || elapsed-time    50.50 ms || Perf 2514.04 gflops,  76.74 peak!
+The result is correct!
+[  16   64   64 ( 454  454) (  3   3) ( 454  454) (  1   1) (  1   1)] || elapsed-time   222.20 ms || Perf 1093.31 gflops,  33.37 peak!
+The result is correct!
+[  16  128  128 ( 227  227) (  3   3) ( 227  227) (  1   1) (  1   1)] || elapsed-time   184.50 ms || Perf 1317.28 gflops,  40.21 peak!
+The result is correct!
+[  64   64   64 ( 228  228) (  3   3) ( 228  228) (  1   1) (  1   1)] || elapsed-time   144.30 ms || Perf 1698.39 gflops,  51.84 peak!
+The result is correct!
+[  64  128  128 ( 114  114) (  3   3) ( 114  114) (  1   1) (  1   1)] || elapsed-time   101.10 ms || Perf 2425.17 gflops,  74.03 peak!
+The result is correct!
+[  16  256  256 ( 114  114) (  3   3) ( 114  114) (  1   1) (  1   1)] || elapsed-time   109.30 ms || Perf 2243.72 gflops,  68.49 peak!
+The result is correct!
+[  64  256  256 (  57   57) (  3   3) (  57   57) (  1   1) (  1   1)] || elapsed-time    93.00 ms || Perf 2636.97 gflops,  80.49 peak!
+The result is correct!
+[  16  512  512 (  57   57) (  3   3) (  57   57) (  1   1) (  1   1)] || elapsed-time    97.10 ms || Perf 2525.90 gflops,  77.10 peak!
+The result is correct!
+[  64  512  512 (  29   29) (  3   3) (  29   29) (  1   1) (  1   1)] || elapsed-time   103.60 ms || Perf 2451.22 gflops,  74.82 peak!
+The result is correct!
+[  16  512 4096 (  15   15) (  7   7) (   9    9) (  0   0) (  1   1)] || elapsed-time   126.40 ms || Perf 2107.20 gflops,  64.32 peak!
+The result is correct!
